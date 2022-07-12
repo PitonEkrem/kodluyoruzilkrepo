@@ -10,4 +10,4 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # Licance
-![MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
